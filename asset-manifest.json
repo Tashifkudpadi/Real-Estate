@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Real-Estate/static/css/main.909b9e3c.chunk.css",
+    "main.js": "/Real-Estate/static/js/main.fed9027f.chunk.js",
+    "main.js.map": "/Real-Estate/static/js/main.fed9027f.chunk.js.map",
+    "runtime-main.js": "/Real-Estate/static/js/runtime-main.8e65a77c.js",
+    "runtime-main.js.map": "/Real-Estate/static/js/runtime-main.8e65a77c.js.map",
+    "static/css/2.6ef2fac9.chunk.css": "/Real-Estate/static/css/2.6ef2fac9.chunk.css",
+    "static/js/2.9c064c25.chunk.js": "/Real-Estate/static/js/2.9c064c25.chunk.js",
+    "static/js/2.9c064c25.chunk.js.map": "/Real-Estate/static/js/2.9c064c25.chunk.js.map",
+    "static/js/3.63e3dfa2.chunk.js": "/Real-Estate/static/js/3.63e3dfa2.chunk.js",
+    "static/js/3.63e3dfa2.chunk.js.map": "/Real-Estate/static/js/3.63e3dfa2.chunk.js.map",
+    "index.html": "/Real-Estate/index.html",
+    "static/css/2.6ef2fac9.chunk.css.map": "/Real-Estate/static/css/2.6ef2fac9.chunk.css.map",
+    "static/css/main.909b9e3c.chunk.css.map": "/Real-Estate/static/css/main.909b9e3c.chunk.css.map",
+    "static/js/2.9c064c25.chunk.js.LICENSE.txt": "/Real-Estate/static/js/2.9c064c25.chunk.js.LICENSE.txt",
+    "static/media/house1.e63e4a2c.jpg": "/Real-Estate/static/media/house1.e63e4a2c.jpg",
+    "static/media/house3.b9c7ffeb.jpg": "/Real-Estate/static/media/house3.b9c7ffeb.jpg",
+    "static/media/house4.884fd18a.jpg": "/Real-Estate/static/media/house4.884fd18a.jpg",
+    "static/media/house5.a6a5216c.jpg": "/Real-Estate/static/media/house5.a6a5216c.jpg",
+    "static/media/house6.87e56bd0.jpg": "/Real-Estate/static/media/house6.87e56bd0.jpg",
+    "static/media/interior-2.de429d20.jpg": "/Real-Estate/static/media/interior-2.de429d20.jpg",
+    "static/media/interior-3.c2a07f5d.jpg": "/Real-Estate/static/media/interior-3.c2a07f5d.jpg",
+    "static/media/interior-4.2c66f458.jpg": "/Real-Estate/static/media/interior-4.2c66f458.jpg",
+    "static/media/interior-5.74c12f30.jpg": "/Real-Estate/static/media/interior-5.74c12f30.jpg",
+    "static/media/intrnationl1.372ad2ea.jpg": "/Real-Estate/static/media/intrnationl1.372ad2ea.jpg",
+    "static/media/intrnationl2.9f67aae1.jpg": "/Real-Estate/static/media/intrnationl2.9f67aae1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e65a77c.js",
+    "static/css/2.6ef2fac9.chunk.css",
+    "static/js/2.9c064c25.chunk.js",
+    "static/css/main.909b9e3c.chunk.css",
+    "static/js/main.fed9027f.chunk.js"
+  ]
+}
