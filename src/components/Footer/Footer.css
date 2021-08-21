@@ -1,0 +1,13 @@
+.para {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  color: hsl(210, 100%, 5%);
+  background: #fff;
+}
+.para a {
+  color: rgb(255, 95, 2);
+  text-decoration: none;
+  margin-left: 0.3rem;
+}
